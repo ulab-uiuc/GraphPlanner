@@ -33,7 +33,7 @@
 
 ## 🔥 News
 
-**[2025.07]** 🚀 Initial release of **GraphPlanner** — Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs.
+**[2026.02]** 🚀 Initial release of **GraphPlanner** — Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs.
 
 
 ## 📖 Overview
@@ -245,11 +245,10 @@ The framework evaluates across 12+ benchmarks in multiple categories:
 ## 📜 Citation
 
 ```bibtex
-@article{graphplanner2025,
+@inproceedings{fenggraphplanner,
   title={GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs},
-  author={},
-  journal={},
-  year={2025}
+  author={Feng, Tao and Zhang, Haozhen and Lei, Zijie and Han, Peixuan and You, Jiaxuan},
+  booktitle={The Fourteenth International Conference on Learning Representations}
 }
 ```
 
